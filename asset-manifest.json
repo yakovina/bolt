@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/bolt/static/css/main.882c7f07.css",
+    "main.js": "/bolt/static/js/main.b3915c50.js",
+    "static/js/787.38951945.chunk.js": "/bolt/static/js/787.38951945.chunk.js",
+    "static/media/cover.jpg": "/bolt/static/media/cover.cad3b2497b356bc13736.jpg",
+    "static/media/game_bg.png": "/bolt/static/media/game_bg.ef9bbc9ff912efaf19eb.png",
+    "static/media/01.png": "/bolt/static/media/01.190892829b40583710f8.png",
+    "static/media/07.png": "/bolt/static/media/07.84fccc6fcb9bc6672da5.png",
+    "static/media/02.png": "/bolt/static/media/02.78d513d5a33ecdbc64d0.png",
+    "static/media/04.png": "/bolt/static/media/04.54f1d8749842b2b5c771.png",
+    "static/media/orn1.svg": "/bolt/static/media/orn1.1ff9e79f58bf699bf4e2466f940fb793.svg",
+    "static/media/03.png": "/bolt/static/media/03.a70048306bd7904e9b92.png",
+    "static/media/06.png": "/bolt/static/media/06.a887c0fa2cf70aa01c9e.png",
+    "static/media/08.png": "/bolt/static/media/08.a887c0fa2cf70aa01c9e.png",
+    "static/media/05.png": "/bolt/static/media/05.699b23f78d43c89a8c54.png",
+    "static/media/button_left.png": "/bolt/static/media/button_left.a5fd7794006e22fb1b26.png",
+    "static/media/button_right.png": "/bolt/static/media/button_right.a7ef2050918e2240b831.png",
+    "static/media/button_right_pressed.png": "/bolt/static/media/button_right_pressed.042bde96003cbdbc149d.png",
+    "static/media/button_left_pressed.png": "/bolt/static/media/button_left_pressed.9adca727becf72d03772.png",
+    "static/media/driver2.svg": "/bolt/static/media/driver2.d312d915e7dce3eb331f6ae4af55153e.svg",
+    "static/media/stripes.png": "/bolt/static/media/stripes.6c1ff05e779d44bcad4d.png",
+    "static/media/pers.png": "/bolt/static/media/pers.55c7dfc8121fce81ef63.png",
+    "static/media/driver1.svg": "/bolt/static/media/driver1.459a85e43da271ae1d8b30023a38bc9f.svg",
+    "static/media/scooter.png": "/bolt/static/media/scooter.291bbb21fc85bbb650b2.png",
+    "static/media/hmarochos_logo.svg": "/bolt/static/media/hmarochos_logo.0ffa78a49e1f5dc96822e87159f16e5c.svg",
+    "index.html": "/bolt/index.html",
+    "static/media/logo2.svg": "/bolt/static/media/logo2.aae35cfb773b4ab028cde472269c1260.svg",
+    "main.882c7f07.css.map": "/bolt/static/css/main.882c7f07.css.map",
+    "main.b3915c50.js.map": "/bolt/static/js/main.b3915c50.js.map",
+    "787.38951945.chunk.js.map": "/bolt/static/js/787.38951945.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.882c7f07.css",
+    "static/js/main.b3915c50.js"
+  ]
+}
