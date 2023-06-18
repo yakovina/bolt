@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bolt/static/css/main.f73452e8.css",
-    "main.js": "/bolt/static/js/main.ff2bbca0.js",
+    "main.css": "/bolt/static/css/main.f0dafc57.css",
+    "main.js": "/bolt/static/js/main.e718a05b.js",
     "static/js/787.38951945.chunk.js": "/bolt/static/js/787.38951945.chunk.js",
     "static/media/cover.jpg": "/bolt/static/media/cover.cad3b2497b356bc13736.jpg",
     "static/media/game_bg.png": "/bolt/static/media/game_bg.ef9bbc9ff912efaf19eb.png",
-    "static/media/01.png": "/bolt/static/media/01.190892829b40583710f8.png",
+    "static/media/01.png": "/bolt/static/media/01.d2c76d38078eca606dd0.png",
     "static/media/07.png": "/bolt/static/media/07.84fccc6fcb9bc6672da5.png",
     "static/media/02.png": "/bolt/static/media/02.78d513d5a33ecdbc64d0.png",
     "static/media/04.png": "/bolt/static/media/04.54f1d8749842b2b5c771.png",
     "static/media/6.png": "/bolt/static/media/6.471c7a463797062feec8.png",
     "static/media/orn1.svg": "/bolt/static/media/orn1.1ff9e79f58bf699bf4e2466f940fb793.svg",
     "static/media/03.png": "/bolt/static/media/03.a70048306bd7904e9b92.png",
-    "static/media/06.png": "/bolt/static/media/06.a887c0fa2cf70aa01c9e.png",
-    "static/media/08.png": "/bolt/static/media/08.a887c0fa2cf70aa01c9e.png",
+    "static/media/06.png": "/bolt/static/media/06.f646ee7e25d91bacd950.png",
+    "static/media/08.png": "/bolt/static/media/08.f646ee7e25d91bacd950.png",
     "static/media/5.png": "/bolt/static/media/5.33d8d9f986cee147ff32.png",
     "static/media/05.png": "/bolt/static/media/05.699b23f78d43c89a8c54.png",
     "static/media/3.png": "/bolt/static/media/3.a077262ae2202103f8d9.png",
@@ -32,12 +32,12 @@
     "static/media/hmarochos_logo.svg": "/bolt/static/media/hmarochos_logo.0ffa78a49e1f5dc96822e87159f16e5c.svg",
     "index.html": "/bolt/index.html",
     "static/media/logo2.svg": "/bolt/static/media/logo2.aae35cfb773b4ab028cde472269c1260.svg",
-    "main.f73452e8.css.map": "/bolt/static/css/main.f73452e8.css.map",
-    "main.ff2bbca0.js.map": "/bolt/static/js/main.ff2bbca0.js.map",
+    "main.f0dafc57.css.map": "/bolt/static/css/main.f0dafc57.css.map",
+    "main.e718a05b.js.map": "/bolt/static/js/main.e718a05b.js.map",
     "787.38951945.chunk.js.map": "/bolt/static/js/787.38951945.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f73452e8.css",
-    "static/js/main.ff2bbca0.js"
+    "static/css/main.f0dafc57.css",
+    "static/js/main.e718a05b.js"
   ]
 }
