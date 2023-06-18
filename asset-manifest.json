@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bolt/static/css/main.809d2dc0.css",
-    "main.js": "/bolt/static/js/main.69d71771.js",
+    "main.css": "/bolt/static/css/main.033cc44d.css",
+    "main.js": "/bolt/static/js/main.345c694a.js",
     "static/js/787.38951945.chunk.js": "/bolt/static/js/787.38951945.chunk.js",
     "static/media/cover.jpg": "/bolt/static/media/cover.cad3b2497b356bc13736.jpg",
     "static/media/game_bg.png": "/bolt/static/media/game_bg.ef9bbc9ff912efaf19eb.png",
@@ -32,12 +32,12 @@
     "static/media/hmarochos_logo.svg": "/bolt/static/media/hmarochos_logo.0ffa78a49e1f5dc96822e87159f16e5c.svg",
     "index.html": "/bolt/index.html",
     "static/media/logo2.svg": "/bolt/static/media/logo2.aae35cfb773b4ab028cde472269c1260.svg",
-    "main.809d2dc0.css.map": "/bolt/static/css/main.809d2dc0.css.map",
-    "main.69d71771.js.map": "/bolt/static/js/main.69d71771.js.map",
+    "main.033cc44d.css.map": "/bolt/static/css/main.033cc44d.css.map",
+    "main.345c694a.js.map": "/bolt/static/js/main.345c694a.js.map",
     "787.38951945.chunk.js.map": "/bolt/static/js/787.38951945.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.809d2dc0.css",
-    "static/js/main.69d71771.js"
+    "static/css/main.033cc44d.css",
+    "static/js/main.345c694a.js"
   ]
 }
